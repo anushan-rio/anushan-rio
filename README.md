@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Building+Back-Office+Systems;Workflow+%26+Productivity+Tools;Clean+Code+%7C+Modern+UI&center=true&width=750&height=45&color=38bdf8&vCenter=true&pause=1000"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=React+Developer;Node.js+Backend+Engineer;API+%26+Workflow+Builder;Clean+Code+%7C+Modern+UI&center=true&width=750&height=45&color=38bdf8&vCenter=true&pause=1000"/>
 </p>
 
 ---
