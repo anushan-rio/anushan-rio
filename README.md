@@ -74,12 +74,13 @@ I build modern, scalable, and user-friendly web and mobile applications that hel
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo,js,cs" height="70"/>
+  <img src="https://skillicons.dev/icons?i=react,expo" height="70"/>
 </p>
 
 <p align="center">
-  📱 <b>React Native</b> for cross-platform mobile apps (Android & iOS)
+  📱 <b>React Native</b> — Cross-platform mobile apps for <b>Android</b> & <b>iOS</b>
 </p>
+
 
 ---
 
