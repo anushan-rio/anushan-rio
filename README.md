@@ -1,15 +1,17 @@
 <!-- ================================ -->
-<!--      GITHUB PROFILE README       -->
+<!--        GITHUB PROFILE README     -->
 <!-- ================================ -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=260&section=header&text=Anushan&fontSize=72&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | UI Enthusiast | Problem Solver</h3>
+<h3 align="center">
+🚀 Full Stack Developer • UI Enthusiast • Backoffice Builder
+</h3>
 
 <p align="center">
-  Building modern, scalable, and user-friendly web applications.
+I build modern, scalable, and user-friendly web applications that help teams work better.
 </p>
 
 <p align="center">
@@ -30,8 +32,8 @@
 
 - 💡 Passionate about **clean UI & scalable architecture**
 - ⚙️ Building **Backoffice systems & productivity tools**
-- 🌱 Currently exploring **Astro, MERN, and performance optimization**
-- 🎯 Goal: Create products that **teams love using**
+- 🌱 Exploring **Astro, MERN, and .NET ecosystems**
+- 🎯 Goal: Build products teams actually enjoy using
 
 ---
 
@@ -44,12 +46,29 @@
 
 ### 🧠 Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,cs,dotnet" />
 </p>
 
 ### ⚙️ Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,figma" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cs" height="70"/>
+</p>
+
+<p align="center">
+  <b>JavaScript</b> &nbsp;|&nbsp; <b>C#</b><br/>
+  My primary languages for building modern web apps and robust backend systems
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -63,43 +82,26 @@
 - Time Sheets  
 - Secure Operations  
 
-🔗 **Repo:** https://github.com/yourusername/workflow
+🔗 https://github.com/yourusername/workflow
 
 ---
 
 ### 🔹 TodoList – Chrome Extension
-> A colorful productivity-focused note & task manager  
+> A colorful productivity-focused task & note manager  
 - Lightweight  
 - Fast  
 - User-friendly  
 
-🔗 **Repo:** https://github.com/yourusername/todolist-extension
+🔗 https://github.com/yourusername/todolist-extension
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushan-rio&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
----
-
-## 🧠 Most Used Language
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60"/>
-</p>
-
-<p align="center">
-  <b>JavaScript</b> — My primary language for building modern web apps
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 
 ---
 
