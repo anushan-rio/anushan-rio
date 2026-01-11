@@ -7,11 +7,11 @@
 </p>
 
 <h3 align="center">
-🚀 Full Stack Developer • UI Enthusiast • Backoffice Builder
+🚀 Full Stack Developer • Mobile App Developer • UI Enthusiast • Backoffice Builder
 </h3>
 
 <p align="center">
-I build modern, scalable, and user-friendly web applications that help teams work better.
+I build modern, scalable, and user-friendly web and mobile applications that help teams work better.
 </p>
 
 <p align="center">
@@ -30,9 +30,10 @@ I build modern, scalable, and user-friendly web applications that help teams wor
 
 ## 👨‍💻 About Me
 
-- 💡 Passionate about **clean UI & scalable architecture**
-- ⚙️ Building **Backoffice systems & productivity tools**
-- 🌱 Exploring **Astro, MERN, and .NET ecosystems**
+- 💡 Passionate about **clean UI, scalable architecture & mobile-first design**
+- ⚙️ Building **Backoffice systems, productivity tools & mobile apps**
+- 📱 Developing **cross-platform mobile apps using React Native**
+- 🌱 Exploring **Astro, MERN, .NET, and mobile performance optimization**
 - 🎯 Goal: Build products teams actually enjoy using
 
 ---
@@ -42,6 +43,11 @@ I build modern, scalable, and user-friendly web applications that help teams wor
 ### 🌐 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,astro" />
+</p>
+
+### 📱 Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,expo,androidstudio" />
 </p>
 
 ### 🧠 Backend
@@ -56,7 +62,7 @@ I build modern, scalable, and user-friendly web applications that help teams wor
 
 ---
 
-## 🧠 Most Used Languages
+## 🧠 Most Used Languages & Mobile Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,cs" height="70"/>
@@ -64,13 +70,16 @@ I build modern, scalable, and user-friendly web applications that help teams wor
 
 <p align="center">
   <b>JavaScript</b> &nbsp;|&nbsp; <b>C#</b><br/>
-  My primary languages for building modern web apps and robust backend systems
+  Core languages for web, mobile, and backend development
 </p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,expo,js,cs" height="70"/>
 </p>
 
-
+<p align="center">
+  📱 <b>React Native</b> for cross-platform mobile apps (Android & iOS)
+</p>
 
 ---
 
@@ -94,8 +103,6 @@ I build modern, scalable, and user-friendly web applications that help teams wor
 - User-friendly  
 
 🔗 https://github.com/yourusername/todolist-extension
-
-
 
 ---
 
