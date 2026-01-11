@@ -18,7 +18,7 @@ I build modern, scalable, and user-friendly web and mobile applications that hel
   <a href="https://github.com/yourusername">
     <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="linkedin.com/in/anushan-s-b1bb23201">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:anushan559l@gmail.com">
