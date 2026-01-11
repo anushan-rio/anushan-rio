@@ -86,11 +86,20 @@
 
 ---
 
-## 🧠 Most Used Languages
+## 🧠 Most Used Language
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60"/>
+</p>
+
+<p align="center">
+  <b>JavaScript</b> — My primary language for building modern web apps
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
