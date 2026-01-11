@@ -66,10 +66,11 @@ I build modern, scalable, and user-friendly web applications that help teams wor
   <b>JavaScript</b> &nbsp;|&nbsp; <b>C#</b><br/>
   My primary languages for building modern web apps and robust backend systems
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=react,expo,js,cs" height="70"/>
 </p>
+
+
 
 ---
 
