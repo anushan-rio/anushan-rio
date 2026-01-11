@@ -21,7 +21,7 @@ I build modern, scalable, and user-friendly web and mobile applications that hel
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:anushan559l@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
