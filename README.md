@@ -32,8 +32,8 @@ I build modern, scalable, and user-friendly web and mobile applications that hel
 
 - 💡 Passionate about **clean UI, scalable architecture & mobile-first design**
 - ⚙️ Building **Backoffice systems, productivity tools & mobile apps**
-- 📱 Developing **cross-platform mobile apps using React Native**
-- 🌱 Exploring **Astro, MERN, .NET, and mobile performance optimization**
+- 📱 Developing **cross-platform mobile apps using React Native & Flutter**
+- 🌱 Exploring **Astro, MERN, Spring Boot, and mobile performance optimization**
 - 🎯 Goal: Build products teams actually enjoy using
 
 ---
@@ -47,12 +47,12 @@ I build modern, scalable, and user-friendly web and mobile applications that hel
 
 ### 📱 Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,expo,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=react,expo,flutter" />
 </p>
 
 ### 🧠 Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,spring,java" />
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -65,22 +65,21 @@ I build modern, scalable, and user-friendly web and mobile applications that hel
 ## 🧠 Most Used Languages & Mobile Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cs" height="70"/>
+  <img src="https://skillicons.dev/icons?i=js,dart,java" height="70"/>
 </p>
 
 <p align="center">
-  <b>JavaScript</b> &nbsp;|&nbsp; <b>C#</b><br/>
+  <b>JavaScript</b> &nbsp;|&nbsp; <b>Dart</b> &nbsp;|&nbsp; <b>Java</b><br/>
   Core languages for web, mobile, and backend development
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo" height="70"/>
+  <img src="https://skillicons.dev/icons?i=react,expo,flutter" height="70"/>
 </p>
 
 <p align="center">
-  📱 <b>React Native</b> — Cross-platform mobile apps for <b>Android</b> & <b>iOS</b>
+  📱 <b>React Native</b> & <b>Flutter</b> — Cross-platform mobile apps for <b>Android</b> & <b>iOS</b>
 </p>
-
 
 ---
 
